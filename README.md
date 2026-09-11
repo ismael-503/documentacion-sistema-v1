@@ -24,3 +24,9 @@ def verificar_stock(cantidad):
         return "Producto Disponible"
     else:
         return "Sin Stock"
+
+## 5. Enlaces Útiles 
+- [Ver Arquitectura del Sistema](docs/arquitectura.md) 
+- [Ver Manual de Usuario](docs/manual_usuario.md) 
+- [Ver Especificación de API](docs/api_endpoints.md) 
+- [Repositorio Oficial en GitHub](https://github.com/ismael-503/documentacion-sistema-v1)        
