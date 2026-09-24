@@ -25,11 +25,14 @@ def verificar_stock(cantidad):
     else:
         return "Sin Stock"
  ``` 
-## 5. Enlaces Útiles
-- [Ver Arquitectura del Sistema](docs/arquitectura.md)
-- [Ver Casos de Uso Hospitalarios](docs/arquitectura/casos-de-uso.md)
-- [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia-autenticacion.md)
-- [Ver Arquitectura del Sistema](docs/arquitectura.md)
-- [Ver Manual de Usuario](docs/manual_usuario.md)
-- [Ver Especificación de API](docs/api_endpoints.md)
-- [Repositorio Oficial en GitHub](https://github.com/ismael-503/documentacion-sistema-v1-)
+## 5. Enlaces Útiles[cite: 4]
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)[cite: 4]
+- [Ver Casos de Uso Hospitalarios](docs/arquitectura/casos-de-uso.md)[cite: 4]
+- [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia-autenticacion.md)[cite: 4]
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)[cite: 4]
+- [Ver Manual de Usuario](docs/manual_usuario.md)[cite: 4]
+- [Ver Especificación de API](docs/api_endpoints.md)[cite: 4]
+- [Ver Guía de Despliegue](docs/despliegue.md)[cite: 4]
+- [Ver Políticas de Seguridad](docs/seguridad.md)[cite: 4]
+- [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)[cite: 4]
+- [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1-)[cite: 4]
