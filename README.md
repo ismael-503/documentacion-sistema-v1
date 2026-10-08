@@ -41,3 +41,4 @@ def verificar_stock(cantidad):
 - [Ver Políticas de Seguridad](docs/seguridad.md)[cite: 4]
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)[cite: 4]
 - [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1-)[cite: 4]
+
