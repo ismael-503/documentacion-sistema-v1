@@ -23,7 +23,7 @@ El usuario debe crear una cuenta ingresando sus datos, iniciar sesión y explora
 Luego, selecciona los productos que desea, los agrega al carrito, revisa el subtotal, el IVA y
 el total, y finalmente confirma la compra para visualizar el resultado de la operación.
 
-<video src="https://youtu.be/amjrGAcOC9I" controls width="100%">
+## <video src="https://youtu.be/amjrGAcOC9I" controls width="100%">
   Tu navegador no soporta la reproducción de video HTML5.
   [Haz clic aquí para descargar el video](videos/videotutorial_proyecto.mp4).
 </video>
