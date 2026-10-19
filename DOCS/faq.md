@@ -23,7 +23,11 @@ El usuario debe crear una cuenta ingresando sus datos, iniciar sesión y explora
 Luego, selecciona los productos que desea, los agrega al carrito, revisa el subtotal, el IVA y
 el total, y finalmente confirma la compra para visualizar el resultado de la operación.
 
-## <video src="https://youtu.be/amjrGAcOC9I" controls width="100%">
-  Tu navegador no soporta la reproducción de video HTML5.
-  [Haz clic aquí para descargar el video](videos/videotutorial_proyecto.mp4).
-</video>
+---
+## 🎬 Videotutorial de Demostración del Sistema[cite: 3]
+
+Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:[cite: 3]
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/amjrGAcOC9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Haz clic aquí para ver el video directamente en YouTube](https://youtu.be/amjrGAcOC9I)
